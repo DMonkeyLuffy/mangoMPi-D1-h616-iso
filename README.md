@@ -9,7 +9,7 @@ mangoMPi-D1: https://archive.org/download/armbian-22.08.0-trunk-nezha-jammy-curr
 mangoMPi-h616: https://archive.org/download/debian_bullseye_minimal_linux5.16.17_root_orangepi.img.7z/debian_bullseye_minimal_linux5.16.17_root_orangepi.img.7z
 
 
-mangoMPi-D1:  per  wi-fi modififa file "armbian_first_run.txt.template"
+mangoMPi-D1:  per  wi-fi modifica file "armbian_first_run.txt.template"
 
 #-----------------------------------------------------------------
 .# Armbian first run configuration
