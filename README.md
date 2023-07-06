@@ -25,6 +25,7 @@ mangoMPi-D1:  per  wi-fi modifica file "armbian_first_run.txt.template"
 
 FR_net_use_static=1
 FR_net_static_ip='192.168.1.xxx'     <<<< IP router
+
 FR_net_static_mask='255.255.255.0'
 FR_net_static_gateway='192.168.1.1'
 FR_net_static_dns='192.168.1.1' #2 entries max, seperated by a space.
