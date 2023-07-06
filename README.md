@@ -10,6 +10,7 @@ mangoMPi-h616: https://archive.org/download/debian_bullseye_minimal_linux5.16.17
 
 
 mangoMPi-D1:  per  wi-fi modififa file "armbian_first_run.txt.template"
+
 #-----------------------------------------------------------------
 .# Armbian first run configuration
 .# Set optional end user configuration
