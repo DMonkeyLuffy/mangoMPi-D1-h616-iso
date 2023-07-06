@@ -27,6 +27,7 @@ FR_net_static_ip='192.168.1.xxx'     <<<< IP router
 FR_net_static_mask='255.255.255.0'
 FR_net_static_gateway='192.168.1.1'
 FR_net_static_dns='192.168.1.1' #2 entries max, seperated by a space.
+
 #-----------------------------------------------------------------
 
 mangoMPi-h616:  per wi-fi
